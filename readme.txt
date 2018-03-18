@@ -13,4 +13,6 @@
 1xxxxxxxxx
 2xxxxxxxxx
 3xxxxxxxxx
-4我修改了 然后add 
+4我修改了 然后add
+
+//已经同步到远端git 
